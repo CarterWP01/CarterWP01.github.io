@@ -1,7 +1,7 @@
 html, body {
-  margin: 0;
-  border: 0;
+  margin: 10;
+  border: 10;
   font-size: 100%;
-  background-color: rgb(2550,255,255);
-  color: #3498DB
+  background-color: rgb(123,222,192);
+  color: rgb(23,32,42)
 }
