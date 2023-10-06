@@ -1,6 +1,7 @@
-{% extends "!simple/base.html" %}
-
-{% block head %}
-{{ super() }}
-  <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/style.css" />
-{% endblock %}
+html, body {
+  margin: 0;
+  border: 0;
+  font-size: 100%;
+  background-color: rgb(0,163,108);
+  color: #3498DB
+}
